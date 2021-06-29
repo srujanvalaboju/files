@@ -114,6 +114,8 @@ $(document).on('click','#reset',function(){
   srujanvalaboju
   mulesoft
   angular
+  javascript
+  typescript
  
 </script>
 
