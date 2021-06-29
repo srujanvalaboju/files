@@ -113,6 +113,7 @@ $(document).on('click','#reset',function(){
   
   srujanvalaboju
   mulesoft
+  angular
  
 </script>
 
