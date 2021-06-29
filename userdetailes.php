@@ -107,6 +107,9 @@ $(document).on('click','#logout',function(){
 $(document).on('click','#reset',function(){
   window.location.href ="<?php echo base_url().'Apis/Home/reset'?>";
 });
+  
+  
+  srujanvalaboju
 
  
 </script>
