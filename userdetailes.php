@@ -59,6 +59,16 @@ include 'script.php';
       </div>
     </form>
   </div>
+
+
+  <div class="form-group">
+          <button type="button" id="edit" class="btn btn-danger" style="margin-left: 170px;">Edit</button>
+          <button type="button" id="logout" class="btn btn-info" style="margin-left: 10px;">Logout</button>
+          <button type="button" id="reset" class="btn btn-info" style="margin-left: 10px;">Change Password</button>
+          </div>
+
+
+          
 </html>
 
 
